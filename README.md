@@ -24,6 +24,7 @@ The repository is organized into folders based on the weekly topics covered in t
 - [Neural Networks](/Neural_Networks)
 - [Gaussian Processes](/Gaussian_Processes)
 - [Tree Ensembles](/Tree_Ensembles)
+- [Dimensionality Reduction](/Dim_Reduce)
 
 ## Contributing
 If you find any issues or have any suggestions for improvement, feel free to contact me via kspilario@up.edu.ph. If any codes are not working on your terminal, let me know. :)
