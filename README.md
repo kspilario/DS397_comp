@@ -18,7 +18,7 @@ At the end of the course, PhD students should be able to:
 - Design new learning algorithms incorporating readable code implementation, good programming practice, sufficient testing, maintenance, and version control.
 
 ## Usage
-The repository is organized into folders based on the weekly topics covered in the class, as follows (under construction):
+The repository is organized into folders based on the weekly topics covered in the class, as follows:
 - [Linear Models](/Linear_Models)
 - [Kernel Methods](/Kernel_Methods)
 - [Neural Networks](/Neural_Networks)
@@ -27,6 +27,8 @@ The repository is organized into folders based on the weekly topics covered in t
 - [Dimensionality Reduction](/Dim_Reduce)
 - [Nearest Neighbor Graphs](/Nearest_Neighbor)
 - [Clustering](/Clustering)
+- [Anomaly Detection](/Anomaly_Detection)
+- [AutoML and Explainable AI](/AutoML_XAI)
 
 ## Contributing
 If you find any issues or have any suggestions for improvement, feel free to contact me via kspilario@up.edu.ph. If any codes are not working on your terminal, let me know. :)
